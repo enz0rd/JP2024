@@ -1,4 +1,4 @@
-![Sistemas da Informação](image.png)
+![Sistemas da Informação](../image.png)
 <small>O que é um sistema de informação</small>
 # Informação
 
