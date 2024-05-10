@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "92335da331ca0df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ee7ba3d2b8e490",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0899f4a486f9bea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SI1/Conteúdos/Requisitos de Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6c1b82ab09eef08",
+    "type": "split",
+    "children": [
+      {
+        "id": "de91215d25b0bc67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "741de1432130edac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa196ab82fb29d58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "daf66db8fb3669ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3f6ee24bcdd8df9",
+    "type": "split",
+    "children": [
+      {
+        "id": "67e582f3220f8d32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a7032726c3432d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SI1/Conteúdos/Requisitos de Software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7cac38e2d715345",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SI1/Conteúdos/Requisitos de Software.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "224ec1865014f078",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e570b337cb71aca4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SI1/Conteúdos/Requisitos de Software.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0899f4a486f9bea5",
+  "lastOpenFiles": [
+    "SI1/Atividades/Atividade 03 - Exercicios_requisitos_software.docx",
+    "SI1/Atividades/Exercicios_requisitos_software.docx",
+    "SI1/mapaReq.jpg",
+    "SI1/Conteúdos/Requisitos de Software.md",
+    "SI1/Conteúdos/Regras de Negócio.md",
+    "SI1/Conteúdos/Introdução aos SI.md",
+    "README.md"
+  ]
+}

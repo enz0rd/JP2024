@@ -1,5 +1,9 @@
 # Regras de Negócio
-    Qual a relação das Regras de Negócio com Sistemas da Informação?
+
+```
+Qual a relação das Regras de Negócio com Sistemas da Informação?
+```
+
 - A regra de negócio é uma **condição** que define uma atividade para um determinado negócio.
     - Define tanto a estrutura quanto o funcionamento do negócio
 - Traz a **necessidade** do negócio, como validações, restrições e muito mais; tudo isso em **regras lógicas**

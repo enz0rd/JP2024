@@ -1,0 +1,44 @@
+# Técnica escolhida: Revisão de Documentação 
+
+## Definição:
+
+- Envolve a análise cuidadosa de documentos existentes, como especificações, manuais, relatórios e outros artefatos de projeto. 
+- Nesse processo, os analistas revisam minuciosamente esses documentos saber se todas as informações necessárias sobre o projeto são precisas e foram devidamente documentadas.
+- A revisão de documentação pode ajudar a entender as necessidades do cliente, os requisitos do sistema e as restrições associadas ao projeto.
+
+## Como se aplica:
+
+- **Identificação dos Documentos Relevantes:** Primeiramente, é necessário identificar os documentos pertinentes ao projeto. Isso pode incluir especificações do sistema, documentos de requisitos anteriores, relatórios de análise de mercado, entre outros.
+
+- **Análise dos Documentos:** Os analistas revisam os documentos selecionados com atenção, buscando identificar informações relevantes para o novo projeto. Eles podem procurar por requisitos funcionais, como recursos específicos que o sistema deve ter, e requisitos não funcionais, como restrições de desempenho ou segurança.
+
+- **Documentação de Requisitos Identificados:** Durante a revisão, os requisitos identificados são documentados de forma clara e precisa. Isso pode incluir a criação de uma lista de requisitos ou a atualização de documentos existentes, como uma matriz de rastreabilidade de requisitos.
+
+- **Validação com as Partes Interessadas:** Garante que os requisitos capturados durante a revisão de documentação atendam às necessidades reais do sistema.
+
+- **Iteração e Refinamento:** À medida que o projeto avança, pode ser necessário revisitar e refinar os requisitos identificados durante a revisão de documentação. Mudanças nos objetivos do projeto, feedback das partes interessadas e novas informações podem exigir ajustes nos requisitos.
+
+## Em que contexto é aplicado:
+
+- **Manutenção de Software:** Pode fornecer uma compreensão clara das funcionalidades e restrições do sistema atual quando é realizada a atualização ou correção do software.
+
+- **Desenvolvimento de Novos Recursos:** A revisão da documentação pode ajudar a garantir que os novos requisitos se alinhem com os requisitos existentes e com a visão geral do sistema.
+
+- **Integração de Sistemas:** Pode ajudar a identificar interfaces, requisitos de compatibilidade e outras considerações importantes.
+
+- **Herança de Software:** Utilizada para compreender os requisitos do sistema legado e facilitar a continuidade do desenvolvimento.
+
+- **Projetos de Migração:** Pode ajudar a identificar os requisitos que precisam ser mantidos, adaptados ou descartados.
+
+## Classificação:
+
+- Pode ser classificada como uma técnica de levantamento de requisitos passiva e baseada em documentos.
+- Essa classificação se deve ao fato de que a revisão de documentação não envolve interação direta com os stakeholders do projeto, mas sim uma análise cuidadosa de documentos existentes.
+- Além disso, essa técnica é considerada baseada em documentos porque depende da revisão e análise de artefatos escritos, como especificações, manuais e relatórios, para identificar requisitos relevantes.
+
+## Dificuldades encontradas:
+
+- **Documentação Desatualizada:** Os documentos existentes podem estar desatualizados ou incompletos, o que pode dificultar a identificação de requisitos precisos.
+
+
+## Email da professora: `caroline.guterres@prof.sc.senac.br`

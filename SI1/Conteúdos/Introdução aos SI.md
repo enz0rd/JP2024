@@ -21,13 +21,11 @@ O sistema é um grupo de itens que interagem entre si e podem automatizar tarefa
 
 ### Componentes do S.I.:
 
-<center>
-
-    Entrada -> Processamento -> Saída 
-     ^           ^              ^
-     |-------Feedback-----------|
-
-</center>    
+```
+   Entrada -> Processamento -> Saída
+     ^             ^             ^
+     |---------Feedback----------|    
+```
 
 - Uma **entrada** é uma atividade de captura de dados
 - O **processamento** é a transcrição desses dados em algo útil
