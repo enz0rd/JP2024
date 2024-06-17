@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 1</title>
+</head>
+<body>
+    <h1>A quantia que o Neymar fez de dinheiro desde que você entrou no site:</h1>
+    <h2 id="salario"></h2>
+    <h1>A quantia que o Neymar fez de dinheiro desde que assinou com o Al Hilal:</h1>
+    <h2 id="salario-albilal"></h2>
+</body>
+<script>
+    var salario = 18.52;
+    var salariosec = 18.52;
+    const dataContrato = new Date("2023-08-16");
+
+    setInterval(() => {
+        const agora = new Date();
+
+        const diffEmMilissegundos = agora - dataContrato;
+        const diffEmSegundos = diffEmMilissegundos / 1000;
+        document.getElementById("salario-albilal").innerHTML = "R$" + (salariosec * diffEmSegundos).toLocaleString('pt-BR');
+    }, 1000)
+
+    setInterval(() => {
+        salario += 18.52;
+        document.getElementById("salario").innerHTML = "R$" + salario.toLocaleString('pt-BR');
+
+    }, 1000);
+</script>
+</html>
